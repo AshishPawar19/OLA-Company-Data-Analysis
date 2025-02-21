@@ -68,11 +68,4 @@ This project analyzes operational data from **Ola**, focusing on increasing sale
 - Interactive maps showing high-demand zones  
 
 ### 📢 **Contributions**
-Contributions are welcome! Fork this repository, submit issues, or open a pull request.
-
-### 📜 **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Would you like help writing some SQL queries for specific analyses, like identifying peak hours or top-performing drivers?
+Contributions are welcome! Fork this repository, submit issues, or open a pull request
