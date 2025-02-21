@@ -68,4 +68,4 @@ This project analyzes operational data from **Ola**, focusing on increasing sale
 - Interactive maps showing high-demand zones  
 
 ### 📢 **Contributions**
-Contributions are welcome! Fork this repository, submit issues, or open a pull request
+Contributions are welcome! Fork this repository, submit issues, or open a pull request.
