@@ -1,4 +1,4 @@
-## 🚗 Ola Company Data Analysis - 1 Month 📊
+## 🚗 Ola Company Data Analysis  📊
 
 ### 📍 **Overview**
 This project analyzes operational data from **Ola**, focusing on increasing sales and improving business strategies. By leveraging **SQL** for querying and **Power BI** for interactive visualizations, this analysis provides actionable insights into customer behavior, driver performance, and revenue trends.
